@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testResults version="1.2">
-<httpSample t="922" it="0" lt="261" ct="25" ts="1581910863533" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="193258" sby="192" sc="1" ec="0" ng="1" na="1" hn="IT-TSDN-00016">
+<httpSample t="568" it="0" lt="251" ct="24" ts="1581911665735" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="193258" sby="192" sc="1" ec="0" ng="1" na="1" hn="IT-TSDN-00016">
   <responseHeader class="java.lang.String">HTTP/1.1 200 OK
-Date: Mon, 17 Feb 2020 03:41:03 GMT
+Date: Mon, 17 Feb 2020 03:54:25 GMT
 Content-Type: text/html; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 Vary: Accept-Encoding
-Set-Cookie: PHPSESSID=k3lg4uoscfedfhsqepog480bpj; path=/; domain=.yhdfa.com
+Set-Cookie: PHPSESSID=nmf1msmeo0fp01t5r0kumtb6gg; path=/; domain=.yhdfa.com
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Pragma: no-cache
 Cache-control: private
@@ -27,10 +27,10 @@ Host: test.yhdfa.com
 &lt;meta name=&quot;keywords&quot;  content=&quot;怡合达,怡合达电商平台,自动化零部件,自动化零部件一站式采购,工厂自动化零部件,工厂自动化零部件一站式采购,FA一站式采购&quot;/&gt;
 &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
 &lt;script type=&quot;text/javascript&quot; src=&quot;/Public/Home/js/jquery.min.js&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;/Public/Home/js/public.js?v=1581910863&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/Public/Home/js/public.js?v=1581911665&quot;&gt;&lt;/script&gt;
 &lt;script src=&apos;/Public/Home/js/new/jquery.fancybox.js&apos;&gt;&lt;/script&gt;
-&lt;link href=&quot;/Public/Home/css/public.css?v=1581910863&quot; rel=&quot;stylesheet&quot; /&gt;
-&lt;link href=&quot;/Public/Home/images/icons/iconfont.css?v=1581910863&quot; rel=&quot;stylesheet&quot; &gt;
+&lt;link href=&quot;/Public/Home/css/public.css?v=1581911665&quot; rel=&quot;stylesheet&quot; /&gt;
+&lt;link href=&quot;/Public/Home/images/icons/iconfont.css?v=1581911665&quot; rel=&quot;stylesheet&quot; &gt;
 &lt;link href=&quot;/Public/Home/css/new/jquery.fancybox.css&quot; rel=&quot;stylesheet&quot; &gt;
 &lt;link rel=&quot;icon&quot; type=&quot;image/x-icon&quot; href=&quot;favicon.ico&quot;&gt;
 
@@ -43,10 +43,10 @@ Host: test.yhdfa.com
 &lt;!-- End Google Tag Manager --&gt;
 
 &#xd;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;/Public/Home/css/index.css?v=1581910863&quot;&gt;&#xd;
-    &lt;link href=&quot;/Public/Home/css/user.css?v=1581910863&quot; rel=&quot;stylesheet&quot; /&gt;&#xd;
-    &lt;script src=&apos;/Public/Home/js/index.js?v=1581910863&apos;&gt;&lt;/script&gt;&#xd;
-    &lt;script src=&apos;/Public/Home/js/jquery.lazyload.js?v=1581910863&apos;&gt;&lt;/script&gt;&#xd;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/Public/Home/css/index.css?v=1581911665&quot;&gt;&#xd;
+    &lt;link href=&quot;/Public/Home/css/user.css?v=1581911665&quot; rel=&quot;stylesheet&quot; /&gt;&#xd;
+    &lt;script src=&apos;/Public/Home/js/index.js?v=1581911665&apos;&gt;&lt;/script&gt;&#xd;
+    &lt;script src=&apos;/Public/Home/js/jquery.lazyload.js?v=1581911665&apos;&gt;&lt;/script&gt;&#xd;
 
 
 
