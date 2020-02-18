@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1c4d3c-f4e3-4640-9db5-734910e913da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/autotest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/autotest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/reportgenerator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/reportgenerator.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/system.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/logs/test.jmx.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/logs/test.jmx.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +72,7 @@
       <updated>1581908874004</updated>
       <workItem from="1581908875184" duration="378000" />
       <workItem from="1581909534840" duration="1156000" />
-      <workItem from="1581911632847" duration="14521000" />
+      <workItem from="1581911632847" duration="15132000" />
     </task>
     <servers />
   </component>
