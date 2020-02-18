@@ -99,7 +99,7 @@
                         </transformationSet>
                         <transformationSet>
                             <dir>${jmeter.result.jtl.dir}</dir>
-                            <stylesheet>src\test\resources\jmeter-results-detail-report_30.xsl</stylesheet>
+                            <stylesheet>src\test\resources\jmeter-results-detail-report_21_py.xsl</stylesheet>
                             <outputDir>${jmeter.result.html.dir1}</outputDir>
                             <!-- 把jtl格式转传承html -->
                             <fileMappers>
