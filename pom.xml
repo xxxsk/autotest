@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>autointerface</name>
+    <name>autotest</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -74,7 +74,7 @@
                 <!--根据xsl模版把jtl文件转换成html -->
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>xml-maven-plugin</artifactId>
-                <version>1.0-beta-3</version>
+                <version>1.0.2</version>
                 <executions>
                     <execution>
                         <phase>verify</phase>
@@ -99,7 +99,7 @@
                         </transformationSet>
                         <transformationSet>
                             <dir>${jmeter.result.jtl.dir}</dir>
-                            <stylesheet>src\test\resources\jmeter-results-detail-report_21_py.xsl</stylesheet>
+                            <stylesheet>src\test\resources\jmeter-results-detail-report_30.xsl</stylesheet>
                             <outputDir>${jmeter.result.html.dir1}</outputDir>
                             <!-- 把jtl格式转传承html -->
                             <fileMappers>

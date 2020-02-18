@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c1c4d3c-f4e3-4640-9db5-734910e913da" name="Default Changelist" comment="" />
+    <list default="true" id="5c1c4d3c-f4e3-4640-9db5-734910e913da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/autotest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/autotest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/reportgenerator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/reportgenerator.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/system.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/html/20200217-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/html/20200217-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/html1/20200217-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/html1/20200217-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/logs/test.jmx.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/logs/test.jmx.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jmeter/results/20200217-test.jtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/results/20200217-test.jtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +38,7 @@
   <component name="ProjectId" id="1XuvcVYpY0IOZi8aJiVDeN0jlbE" />
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -63,10 +79,22 @@
       <updated>1581908874004</updated>
       <workItem from="1581908875184" duration="378000" />
       <workItem from="1581909534840" duration="1156000" />
+      <workItem from="1581911632847" duration="13765000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
