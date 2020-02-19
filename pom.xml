@@ -74,7 +74,7 @@
                 <!--根据xsl模版把jtl文件转换成html -->
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>xml-maven-plugin</artifactId>
-                <version>1.0-beta-3</version>
+                <version>1.0.2</version>
                 <executions>
                     <execution>
                         <phase>verify</phase>
@@ -89,7 +89,7 @@
                             <dir>${jmeter.result.jtl.dir}</dir>
                             <stylesheet>src\test\resources\jmeter.results.shanhe.me.xsl</stylesheet>
                             <outputDir>${jmeter.result.html.dir}</outputDir>
-                            <!-- 把jtl格式转传承html -->
+                            <!-- 把jtl格式转换成html -->
                             <fileMappers>
                                 <fileMapper
                                         implementation="org.codehaus.plexus.components.io.filemappers.FileExtensionMapper">
@@ -101,7 +101,7 @@
                             <dir>${jmeter.result.jtl.dir}</dir>
                             <stylesheet>src\test\resources\jmeter-results-detail-report_21_py.xsl</stylesheet>
                             <outputDir>${jmeter.result.html.dir1}</outputDir>
-                            <!-- 把jtl格式转传承html -->
+                            <!-- 把jtl格式转换成html -->
                             <fileMappers>
                                 <fileMapper
                                         implementation="org.codehaus.plexus.components.io.filemappers.FileExtensionMapper">
