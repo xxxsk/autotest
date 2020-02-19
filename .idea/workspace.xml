@@ -4,9 +4,6 @@
     <list default="true" id="5c1c4d3c-f4e3-4640-9db5-734910e913da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/jmeter-results-detail-report_21.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/jmeter-results-detail-report_21.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/jmeter-results-detail-report_21_py.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/jmeter-results-report_21.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/jmeter.results.shanhe.me.xsl" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +76,7 @@
       <updated>1581908874004</updated>
       <workItem from="1581908875184" duration="378000" />
       <workItem from="1581909534840" duration="1156000" />
-      <workItem from="1581911632847" duration="29965000" />
+      <workItem from="1581911632847" duration="30228000" />
     </task>
     <servers />
   </component>
