@@ -74,7 +74,7 @@
                 <!--根据xsl模版把jtl文件转换成html -->
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>xml-maven-plugin</artifactId>
-                <version>1.0</version>
+                <version>1.0-beta-3</version>
                 <executions>
                     <execution>
                         <phase>verify</phase>
